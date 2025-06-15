@@ -1,4 +1,4 @@
-\subsection{Interfejs użytkownika}
+\section{Interfejs użytkownika}
 
 Interfejs został wykonany w technologii \textbf{Swing}. Główne okna aplikacji to:
 
@@ -9,7 +9,7 @@ Interfejs został wykonany w technologii \textbf{Swing}. Główne okna aplikacji
     \item \textbf{Formularz edycji zajęć} – pozwala na modyfikację istniejących rekordów.
 \end{itemize}
 
-\subsection{Walidacja i błędy}
+\section{Walidacja i błędy}
 
 System zawiera zabezpieczenia:
 
@@ -19,9 +19,9 @@ System zawiera zabezpieczenia:
     \item Obsługa wyjątków SQL i wyświetlanie komunikatów błędów użytkownikowi.
 \end{itemize}
 
-\subsection{Szczegółowy opis komponentów GUI}
+\section{Szczegółowy opis komponentów GUI}
 
-\paragraph{Formularz Dodawania Zajęć (DodajZajeciaPanel)}
+\subsection {Formularz Dodawania Zajęć (DodajZajeciaPanel)}
 
 \begin{itemize}
     \item \textbf{Cel:} Dodawanie nowych rekordów zajęć do bazy danych.
@@ -35,7 +35,7 @@ System zawiera zabezpieczenia:
     \item \textbf{Uwagi:} Interfejs zawiera etykiety (\texttt{JLabel}) przypisane do każdego pola. Formularz obsługuje walidację przed zapisem zajęć.
 \end{itemize}
 
-\paragraph{Formularz Edytowania Zajęć (EdytujZajeciaPanel)}
+\subsection {Formularz Edytowania Zajęć (EdytujZajeciaPanel)}
 
 \begin{itemize}
     \item \textbf{Cel:} Edytowanie istniejących danych zajęć.
@@ -47,7 +47,7 @@ System zawiera zabezpieczenia:
     \item \textbf{Uwagi:} Pola są edytowalne i automatycznie uzupełniane na podstawie danych wybranych z tabeli.
 \end{itemize}
 
-\paragraph{Formularz Logowania (Login)}
+\subsection {Formularz Logowania (Login)}
 
 \begin{itemize}
     \item \textbf{Cel:} Autoryzacja użytkownika w systemie.
@@ -60,7 +60,7 @@ System zawiera zabezpieczenia:
     \item \textbf{Uwagi:} Prosty, nowoczesny wygląd z ikoną kłódki; Zabezpieczenie dostępu do aplikacji.
 \end{itemize}
 
-\paragraph{Panel Sekretariatu (SekretariatPanel)}
+\subsection {Panel Sekretariatu (SekretariatPanel)}
 
 \begin{itemize}
     \item \textbf{Cel:} Zarządzanie zajęciami (CRUD).
@@ -75,7 +75,7 @@ System zawiera zabezpieczenia:
     \item \textbf{Uwagi:} Obsługuje filtrowanie i pełną obsługę CRUD; główny ekran zarządzania.
 \end{itemize}
 
-\subsection{Diagram komponentów GUI i zależności}
+\section{Diagram komponentów GUI i zależności}
 \vspace{1em}
 \noindent\textbf{Diagram komponentów GUI i zależności}
 

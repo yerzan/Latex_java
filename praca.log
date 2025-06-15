@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  15 JUN 2025 16:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  15 JUN 2025 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -744,7 +744,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 202.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/ur.jpg, id=96, 134.00063pt x 134.00063pt>
+<figures/ur.jpg, id=112, 134.00063pt x 134.00063pt>
 File: figures/ur.jpg Graphic file (type jpg)
 <use figures/ur.jpg>
 Package pdftex.def Info: figures/ur.jpg  used on input line 202.
@@ -776,28 +776,36 @@ l.202 \titlepages
 
 
 
-[5
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 \clearpage
+                 [1
 
 ]
 \openout2 = `chapters/chapter001.aux'.
 
  (chapters/chapter001.tex
+Rozdzia\l  1.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 12.
- (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+(C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ))
 
-Package babel Info: 'polish' activates 'polish' shorthands.
-(babel)             Reported  on input line 221.
-[6
+[2
+
 
 
 ]
 \openout2 = `chapters/chapter002.aux'.
 
- (chapters/chapter002.tex)
+ (chapters/chapter002.tex
+Rozdzia\l  2.
+)
 
-[7
+[3
+
 
 
 
@@ -805,12 +813,14 @@ Package babel Info: 'polish' activates 'polish' shorthands.
 \openout2 = `chapters/chapter003.aux'.
 
  (chapters/chapter003.tex
+Rozdzia\l  3.
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 7.
- (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+(C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ))
 
-[8
+[4
+
 
 
 
@@ -818,12 +828,13 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 \openout2 = `chapters/chapter004.aux'.
 
  (chapters/chapter004.tex
-<figures/workApl/login_panel.png, id=153, 210.7875pt x 207.77625pt>
+Rozdzia\l  4.
+<figures/workApl/login_panel.png, id=170, 210.7875pt x 207.77625pt>
 File: figures/workApl/login_panel.png Graphic file (type png)
 <use figures/workApl/login_panel.png>
 Package pdftex.def Info: figures/workApl/login_panel.png  used on input line 6.
 (pdftex.def)             Requested size: 170.71393pt x 168.27881pt.
-<figures/workApl/mainpanel.png, id=155, 645.91313pt x 548.80031pt>
+<figures/workApl/mainpanel.png, id=172, 645.91313pt x 548.80031pt>
 File: figures/workApl/mainpanel.png Graphic file (type png)
 <use figures/workApl/mainpanel.png>
 Package pdftex.def Info: figures/workApl/mainpanel.png  used on input line 16.
@@ -833,12 +844,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[9
+[5
+
 
 
 
  <./figures/workApl/login_panel.png>]
-<figures/workApl/add_wyklad_panel.png, id=163, 225.84375pt x 327.47343pt>
+<figures/workApl/add_wyklad_panel.png, id=180, 225.84375pt x 327.47343pt>
 File: figures/workApl/add_wyklad_panel.png Graphic file (type png)
 <use figures/workApl/add_wyklad_panel.png>
 Package pdftex.def Info: figures/workApl/add_wyklad_panel.png  used on input line 33.
@@ -848,8 +860,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[10 <./figures/workApl/mainpanel.png>]
-<figures/workApl/add_lab_panel.png, id=170, 229.60782pt x 328.22626pt>
+[6 <./figures/workApl/mainpanel.png>]
+<figures/workApl/add_lab_panel.png, id=188, 229.60782pt x 328.22626pt>
 File: figures/workApl/add_lab_panel.png Graphic file (type png)
 <use figures/workApl/add_lab_panel.png>
 Package pdftex.def Info: figures/workApl/add_lab_panel.png  used on input line 43.
@@ -859,8 +871,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[11 <./figures/workApl/add_wyklad_panel.png>]
-<figures/workApl/add_projekt_panel.png, id=177, 228.10219pt x 326.72063pt>
+[7 <./figures/workApl/add_wyklad_panel.png>]
+<figures/workApl/add_projekt_panel.png, id=195, 228.10219pt x 326.72063pt>
 File: figures/workApl/add_projekt_panel.png Graphic file (type png)
 <use figures/workApl/add_projekt_panel.png>
 Package pdftex.def Info: figures/workApl/add_projekt_panel.png  used on input line 53.
@@ -870,8 +882,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[12 <./figures/workApl/add_lab_panel.png>]
-<figures/workApl/edit_panel.png, id=184, 223.58531pt x 327.47343pt>
+[8 <./figures/workApl/add_lab_panel.png>]
+<figures/workApl/edit_panel.png, id=202, 223.58531pt x 327.47343pt>
 File: figures/workApl/edit_panel.png Graphic file (type png)
 <use figures/workApl/edit_panel.png>
 Package pdftex.def Info: figures/workApl/edit_panel.png  used on input line 63.
@@ -881,20 +893,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[13 <./figures/workApl/add_projekt_panel.png>])
+[9 <./figures/workApl/add_projekt_panel.png>])
 
-[14 <./figures/workApl/edit_panel.png>]
+[10 <./figures/workApl/edit_panel.png>]
 \openout2 = `chapters/chapter005.aux'.
 
  (chapters/chapter005.tex
-<figures/diagramDB.png, id=197, 724.95844pt x 355.3275pt>
+<figures/diagramDB.png, id=215, 724.95844pt x 355.3275pt>
 File: figures/diagramDB.png Graphic file (type png)
 <use figures/diagramDB.png>
 Package pdftex.def Info: figures/diagramDB.png  used on input line 33.
 (pdftex.def)             Requested size: 362.77525pt x 177.8097pt.
 )
 
-[15
+Package babel Info: 'polish' activates 'polish' shorthands.
+(babel)             Reported  on input line 225.
+[11
 
 
 
@@ -903,19 +917,19 @@ Package pdftex.def Info: figures/diagramDB.png  used on input line 33.
 
  (chapters/chapter006.tex
 
-[16
+[12
 
 
 
 ]
-<figures/diagram.png, id=211, 1120.185pt x 572.1375pt>
+<figures/diagram.png, id=228, 1120.185pt x 572.1375pt>
 File: figures/diagram.png Graphic file (type png)
 <use figures/diagram.png>
 Package pdftex.def Info: figures/diagram.png  used on input line 85.
 (pdftex.def)             Requested size: 405.45047pt x 207.08679pt.
 )
 
-[17 <./figures/diagram.png (PNG copy)>]
+[13 <./figures/diagram.png (PNG copy)>]
 No file praca.bbl.
 (praca.lof)
 \tf@lof=\write5
@@ -923,7 +937,7 @@ No file praca.bbl.
 
 
 
-[18
+[14
 
 
 
@@ -933,7 +947,7 @@ No file praca.bbl.
 
 
 
-[19
+[15
 
 ] (praca.lol)
 \tf@lol=\write7
@@ -941,7 +955,7 @@ No file praca.bbl.
 
 
 
-[20
+[16
 
 
 
@@ -965,7 +979,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
 )
 
-[21
+[17
 
 
 
@@ -980,20 +994,20 @@ LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: A1445AFC0188ACF62804014362B2FA0A;3877.
+(rerunfilecheck)             Checksum: 539F50B45E6C87BE139E9B3F3ABF1754;4903.
  ) 
 Here is how much of TeX's memory you used:
  23189 strings out of 468225
- 444910 string characters out of 5432973
+ 444744 string characters out of 5432973
  997316 words of memory out of 5000000
- 51254 multiletter control sequences out of 15000+600000
+ 51255 multiletter control sequences out of 15000+600000
  692254 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,14n,94p,594b,1222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,14n,94p,594b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on praca.pdf (19 pages, 337203 bytes).
+Output written on praca.pdf (19 pages, 339853 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 
