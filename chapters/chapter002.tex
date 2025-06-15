@@ -1,0 +1,39 @@
+\section{Opis projektu}
+
+\subsection{Cel i przeznaczenie}
+
+Projekt \textbf{System rezerwacji sal / podział godzin} został zaprojektowany z myślą o ułatwieniu zarządzania harmonogramem zajęć akademickich.  
+Głównym celem systemu jest wsparcie administracji uczelni w planowaniu i koordynowaniu zajęć dydaktycznych w sposób zautomatyzowany i intuicyjny.
+
+\subsection{Główne funkcjonalności}
+
+System umożliwia użytkownikowi wykonywanie następujących operacji:
+
+\begin{itemize}
+    \item dodawanie zajęć wraz z informacjami: dzień tygodnia, godzina, typ zajęć, kierunek, przedmiot, prowadzący, sala, grupa;
+    \item edytowanie oraz usuwanie wcześniej dodanych zajęć;
+    \item filtrowanie zajęć według sali, grupy i typu zajęć;
+    \item walidację danych przy wprowadzaniu (np. sprawdzanie konfliktów sal i grup);
+    \item obsługę wyjątków i prezentację komunikatów błędów.
+\end{itemize}
+
+\subsection{Typy zajęć}
+
+System rozróżnia trzy typy zajęć, które różnią się liczbą przypisanych grup:
+
+\begin{itemize}
+    \item \textbf{Wykład (Wyklad)} – przeznaczony dla wszystkich grup;
+    \item \textbf{Projekt (ćwiczenia)} – przeznaczony dla dwóch konkretnych grup (np. A i B);
+    \item \textbf{Laboratorium} – przeznaczone dla jednej grupy.
+\end{itemize}
+
+\subsection{Zastosowane technologie}
+
+Do realizacji projektu wykorzystano następujące technologie:
+
+\begin{itemize}
+    \item język \textbf{Java};
+    \item biblioteka \textbf{Swing} do budowy graficznego interfejsu użytkownika;
+    \item baza danych \textbf{PostgreSQL};
+    \item interfejs \textbf{JDBC} do komunikacji z bazą danych.
+\end{itemize}
