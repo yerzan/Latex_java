@@ -30,7 +30,8 @@
 \contentsline {chapter}{\numberline {7}Podsumowanie i wnioski}{18}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Osiągnięte rezultaty}{18}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Wnioski}{18}{section.7.2}%
-\contentsline {section}{\textbf {Bibliografia}}{20}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Linki do repozytoriów GitHub}{19}{section.7.3}%
+\contentsline {section}{\textbf {Bibliografia}}{20}{section.7.3}%
 \contentsline {section}{\textbf {Spis rysunków}}{21}{chapter*.18}%
 \contentsline {section}{\textbf {Spis listingów}}{22}{chapter*.18}%
 \contentsline {section}{\textbf {Oświadczenie studenta o samodzielności pracy}}{23}{chapter*.20}%

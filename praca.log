@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  15 JUN 2025 20:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  15 JUN 2025 20:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,7 +748,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 211.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/ur.jpg, id=141, 134.00063pt x 134.00063pt>
+<figures/ur.jpg, id=145, 134.00063pt x 134.00063pt>
 File: figures/ur.jpg Graphic file (type jpg)
 <use figures/ur.jpg>
 Package pdftex.def Info: figures/ur.jpg  used on input line 211.
@@ -830,7 +830,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 ]
 Rozdzia\l  4.
-<figures/diagram_gantta_colored_fixed.png, id=208, 722.7pt x 361.35pt>
+<figures/diagram_gantta_colored_fixed.png, id=213, 722.7pt x 361.35pt>
 File: figures/diagram_gantta_colored_fixed.png Graphic file (type png)
 <use figures/diagram_gantta_colored_fixed.png>
 Package pdftex.def Info: figures/diagram_gantta_colored_fixed.png  used on input line 61.
@@ -844,12 +844,12 @@ Package pdftex.def Info: figures/diagram_gantta_colored_fixed.png  used on input
 
  (chapters/chapter004.tex
 Rozdzia\l  5.
-<figures/workApl/login_panel.png, id=217, 210.7875pt x 207.77625pt>
+<figures/workApl/login_panel.png, id=222, 210.7875pt x 207.77625pt>
 File: figures/workApl/login_panel.png Graphic file (type png)
 <use figures/workApl/login_panel.png>
 Package pdftex.def Info: figures/workApl/login_panel.png  used on input line 6.
 (pdftex.def)             Requested size: 170.71393pt x 168.27881pt.
-<figures/workApl/mainpanel.png, id=218, 645.91313pt x 548.80031pt>
+<figures/workApl/mainpanel.png, id=223, 645.91313pt x 548.80031pt>
 File: figures/workApl/mainpanel.png Graphic file (type png)
 <use figures/workApl/mainpanel.png>
 Package pdftex.def Info: figures/workApl/mainpanel.png  used on input line 16.
@@ -865,7 +865,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./figures/workApl/login_panel.png>]
-<figures/workApl/add_wyklad_panel.png, id=225, 225.84375pt x 327.47343pt>
+<figures/workApl/add_wyklad_panel.png, id=230, 225.84375pt x 327.47343pt>
 File: figures/workApl/add_wyklad_panel.png Graphic file (type png)
 <use figures/workApl/add_wyklad_panel.png>
 Package pdftex.def Info: figures/workApl/add_wyklad_panel.png  used on input line 33.
@@ -876,7 +876,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [7 <./figures/workApl/mainpanel.png>]
-<figures/workApl/add_lab_panel.png, id=233, 229.60782pt x 328.22626pt>
+<figures/workApl/add_lab_panel.png, id=238, 229.60782pt x 328.22626pt>
 File: figures/workApl/add_lab_panel.png Graphic file (type png)
 <use figures/workApl/add_lab_panel.png>
 Package pdftex.def Info: figures/workApl/add_lab_panel.png  used on input line 43.
@@ -887,7 +887,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [8 <./figures/workApl/add_wyklad_panel.png>]
-<figures/workApl/add_projekt_panel.png, id=240, 228.10219pt x 326.72063pt>
+<figures/workApl/add_projekt_panel.png, id=245, 228.10219pt x 326.72063pt>
 File: figures/workApl/add_projekt_panel.png Graphic file (type png)
 <use figures/workApl/add_projekt_panel.png>
 Package pdftex.def Info: figures/workApl/add_projekt_panel.png  used on input line 53.
@@ -898,7 +898,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [9 <./figures/workApl/add_lab_panel.png>]
-<figures/workApl/edit_panel.png, id=247, 223.58531pt x 327.47343pt>
+<figures/workApl/edit_panel.png, id=252, 223.58531pt x 327.47343pt>
 File: figures/workApl/edit_panel.png Graphic file (type png)
 <use figures/workApl/edit_panel.png>
 Package pdftex.def Info: figures/workApl/edit_panel.png  used on input line 63.
@@ -914,7 +914,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout2 = `chapters/chapter005.aux'.
 
  (chapters/chapter005.tex
-<figures/diagramDB.png, id=261, 724.95844pt x 355.3275pt>
+<figures/diagramDB.png, id=266, 724.95844pt x 355.3275pt>
 File: figures/diagramDB.png Graphic file (type png)
 <use figures/diagramDB.png>
 Package pdftex.def Info: figures/diagramDB.png  used on input line 33.
@@ -937,7 +937,7 @@ Package babel Info: 'polish' activates 'polish' shorthands.
 
 
 ]
-<figures/diagram.png, id=273, 1120.185pt x 572.1375pt>
+<figures/diagram.png, id=278, 1120.185pt x 572.1375pt>
 File: figures/diagram.png Graphic file (type png)
 <use figures/diagram.png>
 Package pdftex.def Info: figures/diagram.png  used on input line 85.
@@ -949,17 +949,17 @@ Package pdftex.def Info: figures/diagram.png  used on input line 85.
 
  (chapters/chapter007.tex
 Rozdzia\l  6.
-<figures/approve/approve_login.png, id=279, 247.67531pt x 112.92188pt>
+<figures/approve/approve_login.png, id=284, 247.67531pt x 112.92188pt>
 File: figures/approve/approve_login.png Graphic file (type png)
 <use figures/approve/approve_login.png>
 Package pdftex.def Info: figures/approve/approve_login.png  used on input line 11.
 (pdftex.def)             Requested size: 170.71393pt x 77.83345pt.
-<figures/Errors/bad_login.png, id=280, 245.41687pt x 109.91063pt>
+<figures/Errors/bad_login.png, id=285, 245.41687pt x 109.91063pt>
 File: figures/Errors/bad_login.png Graphic file (type png)
 <use figures/Errors/bad_login.png>
 Package pdftex.def Info: figures/Errors/bad_login.png  used on input line 17.
 (pdftex.def)             Requested size: 170.71393pt x 76.45724pt.
-<figures/approve/add_zajecia_succesfull.png, id=281, 244.66406pt x 106.89937pt>
+<figures/approve/add_zajecia_succesfull.png, id=286, 244.66406pt x 106.89937pt>
 File: figures/approve/add_zajecia_succesfull.png Graphic file (type png)
 <use figures/approve/add_zajecia_succesfull.png>
 Package pdftex.def Info: figures/approve/add_zajecia_succesfull.png  used on input line 33.
@@ -972,17 +972,17 @@ Package pdftex.def Info: figures/approve/add_zajecia_succesfull.png  used on inp
 
 
  <./figures/approve/approve_login.png> <./figures/Errors/bad_login.png> <./figures/approve/add_zajecia_succesfull.png>]
-<figures/Warning/select_zajecia_to_edit.png, id=292, 243.15843pt x 107.65219pt>
+<figures/Warning/select_zajecia_to_edit.png, id=297, 243.15843pt x 107.65219pt>
 File: figures/Warning/select_zajecia_to_edit.png Graphic file (type png)
 <use figures/Warning/select_zajecia_to_edit.png>
 Package pdftex.def Info: figures/Warning/select_zajecia_to_edit.png  used on input line 59.
 (pdftex.def)             Requested size: 213.39568pt x 94.47467pt.
-<figures/Warning/delete_warning.png, id=293, 301.8778pt x 107.65219pt>
+<figures/Warning/delete_warning.png, id=298, 301.8778pt x 107.65219pt>
 File: figures/Warning/delete_warning.png Graphic file (type png)
 <use figures/Warning/delete_warning.png>
 Package pdftex.def Info: figures/Warning/delete_warning.png  used on input line 65.
 (pdftex.def)             Requested size: 213.39568pt x 76.09848pt.
-<figures/Warning/select_zajecia.png, id=294, 243.91125pt x 106.14656pt>
+<figures/Warning/select_zajecia.png, id=299, 243.91125pt x 106.14656pt>
 File: figures/Warning/select_zajecia.png Graphic file (type png)
 <use figures/Warning/select_zajecia.png>
 Package pdftex.def Info: figures/Warning/select_zajecia.png  used on input line 71.
@@ -990,13 +990,13 @@ Package pdftex.def Info: figures/Warning/select_zajecia.png  used on input line 
 
 
 [16 <./figures/Warning/select_zajecia_to_edit.png> <./figures/Warning/delete_warning.png> <./figures/Warning/select_zajecia.png>]
-<figures/Errors/add_panel_error.png, id=305, 316.93407pt x 106.89937pt>
+<figures/Errors/add_panel_error.png, id=310, 316.93407pt x 106.89937pt>
 File: figures/Errors/add_panel_error.png Graphic file (type png)
 <use figures/Errors/add_panel_error.png>
 Package pdftex.def Info: figures/Errors/add_panel_error.png  used on input line 88.
 (pdftex.def)             Requested size: 234.73654pt x 79.17606pt.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 92.
-<figures/Errors/sala_zajeta_error.png, id=306, 278.54062pt x 107.65219pt>
+<figures/Errors/sala_zajeta_error.png, id=311, 278.54062pt x 107.65219pt>
 File: figures/Errors/sala_zajeta_error.png Graphic file (type png)
 <use figures/Errors/sala_zajeta_error.png>
 Package pdftex.def Info: figures/Errors/sala_zajeta_error.png  used on input line 102.
@@ -1081,20 +1081,20 @@ LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 6187D8E0BA8934EE266436B491796BA5;6151.
+(rerunfilecheck)             Checksum: F3C6A5B22D4D54F1F13A97356F9D25B8;6358.
  ) 
 Here is how much of TeX's memory you used:
- 23624 strings out of 468225
- 452743 string characters out of 5432973
+ 23628 strings out of 468225
+ 452785 string characters out of 5432973
  1012437 words of memory out of 5000000
- 51630 multiletter control sequences out of 15000+600000
- 694645 words of font info for 107 fonts, out of 8000000 for 9000
+ 51632 multiletter control sequences out of 15000+600000
+ 697367 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,14n,94p,594b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on praca.pdf (25 pages, 501818 bytes).
+Output written on praca.pdf (25 pages, 504801 bytes).
 PDF statistics:
- 443 PDF objects out of 1000 (max. 8388607)
- 98 named destinations out of 1000 (max. 500000)
- 371 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 379 words of extra memory for PDF output out of 10000 (max. 10000000)
 
