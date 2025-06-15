@@ -9,27 +9,28 @@
 \contentsline {section}{\numberline {2.4}Zastosowane technologie}{3}{section.2.4}%
 \contentsline {chapter}{\numberline {3}Implementacja systemu}{4}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Struktura aplikacji}{4}{section.3.1}%
-\contentsline {chapter}{\numberline {4}Opis interfejsu uzytkownika}{5}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Baza danych}{11}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Diagram Baza Danych}{11}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Interfejs użytkownika}{12}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Walidacja i błędy}{12}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Szczegółowy opis komponentów GUI}{12}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Formularz Dodawania Zajęć (DodajZajeciaPanel)}{12}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Formularz Edytowania Zajęć (EdytujZajeciaPanel)}{12}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Formularz Logowania (Login)}{13}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}Panel Sekretariatu (SekretariatPanel)}{13}{subsection.4.5.4}%
-\contentsline {section}{\numberline {4.6}Diagram komponentów GUI i zależności}{13}{section.4.6}%
-\contentsline {chapter}{\numberline {5}Testowanie systemu}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Testy logowania}{14}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Testy dodawania zajęć}{14}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Testy filtrowania danych}{15}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Testy edycji i usuwania zajęć}{15}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Testy walidacji danych}{16}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Podsumowanie i wnioski}{17}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Osiągnięte rezultaty}{17}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Wnioski}{17}{section.6.2}%
-\contentsline {section}{\textbf {Bibliografia}}{19}{section.6.2}%
-\contentsline {section}{\textbf {Spis rysunków}}{20}{chapter*.17}%
-\contentsline {section}{\textbf {Spis listingów}}{21}{chapter*.17}%
-\contentsline {section}{\textbf {Oświadczenie studenta o samodzielności pracy}}{22}{chapter*.19}%
+\contentsline {chapter}{\numberline {4}Harmonogram realizacji projektu}{5}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Opis interfejsu uzytkownika}{6}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Baza danych}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Diagram Baza Danych}{12}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Interfejs użytkownika}{13}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Walidacja i błędy}{13}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Szczegółowy opis komponentów GUI}{13}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Formularz Dodawania Zajęć (DodajZajeciaPanel)}{13}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Formularz Edytowania Zajęć (EdytujZajeciaPanel)}{13}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Formularz Logowania (Login)}{14}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.4}Panel Sekretariatu (SekretariatPanel)}{14}{subsection.5.5.4}%
+\contentsline {section}{\numberline {5.6}Diagram komponentów GUI i zależności}{14}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Testowanie systemu}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Testy logowania}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Testy dodawania zajęć}{15}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Testy filtrowania danych}{16}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Testy edycji i usuwania zajęć}{16}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Testy walidacji danych}{17}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Podsumowanie i wnioski}{18}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Osiągnięte rezultaty}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Wnioski}{18}{section.7.2}%
+\contentsline {section}{\textbf {Bibliografia}}{20}{section.7.2}%
+\contentsline {section}{\textbf {Spis rysunków}}{21}{chapter*.18}%
+\contentsline {section}{\textbf {Spis listingów}}{22}{chapter*.18}%
+\contentsline {section}{\textbf {Oświadczenie studenta o samodzielności pracy}}{23}{chapter*.20}%
