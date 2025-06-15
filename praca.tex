@@ -31,6 +31,7 @@
 \usepackage[flushleft]{threeparttable}
 \usepackage[normalem]{ulem}
 \usepackage{lineno}
+\usepackage{chngcntr}
 % ---------------------------------------------
 
 % --- < bibliografia > ---
@@ -141,6 +142,13 @@
     % \definecolor{red}{rgb}{0.6,0,0}
     \definecolor{gray}{rgb}{0.5,0.5,0.5}
 
+
+\AtBeginDocument{
+  \counterwithout{figure}{chapter}
+  \counterwithout{table}{chapter}
+  \counterwithout{lstlisting}{chapter}
+}
+
 % % ------------------------
 \AtBeginDocument{
 	\renewcommand{\tablename}{Tabela}
@@ -193,6 +201,7 @@
 \setcounter{secnumdepth}{4}
 \brokenpenalty=10000\relax
 
+
 % --------------------------------------------------------------------------
 % główna część pracy
 % --------------------------------------------------------------------------
@@ -224,6 +233,8 @@
 \include{chapters/chapter004}
 \include{chapters/chapter005}
 \include{chapters/chapter006}
+\include{chapters/chapter007}
+\include{chapters/chapter008}
 
 % Wyłączenie działania `ulem` na czas bibliografii
 \renewcommand{\emph}[1]{\textit{#1}}
@@ -243,9 +254,9 @@
 \clearpage
 
 % Dodanie spisu tabel do spisu treści
-\addcontentsline{toc}{section}{\textbf{Spis tabel}}
-\listoftables
-\clearpage
+%\addcontentsline{toc}{section}{\textbf{Spis tabel}}
+%\listoftables
+%\clearpage
 
 
 \clearpage

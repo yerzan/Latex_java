@@ -1,9 +1,7 @@
 \babel@toc {polish}{}\relax 
-\contentsline {chapter}{\numberline {1}Wstęp}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Cel projektu}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Zakres funkcjonalny systemu}{2}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Zastosowane technologie}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Struktura dokumentacji}{2}{section.1.4}%
+\contentsline {chapter}{\numberline {1}Streszczenie}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Streszczenie w języku polskim}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Abstract in English}{2}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Opis projektu}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Cel i przeznaczenie}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Główne funkcjonalności}{3}{section.2.2}%
@@ -22,8 +20,16 @@
 \contentsline {subsection}{\numberline {4.5.3}Formularz Logowania (Login)}{13}{subsection.4.5.3}%
 \contentsline {subsection}{\numberline {4.5.4}Panel Sekretariatu (SekretariatPanel)}{13}{subsection.4.5.4}%
 \contentsline {section}{\numberline {4.6}Diagram komponentów GUI i zależności}{13}{section.4.6}%
-\contentsline {section}{\textbf {Bibliografia}}{14}{figure.caption.8}%
-\contentsline {section}{\textbf {Spis rysunków}}{14}{figure.caption.8}%
-\contentsline {section}{\textbf {Spis tabel}}{15}{figure.caption.8}%
-\contentsline {section}{\textbf {Spis listingów}}{16}{figure.caption.8}%
-\contentsline {section}{\textbf {Oświadczenie studenta o samodzielności pracy}}{17}{chapter*.10}%
+\contentsline {chapter}{\numberline {5}Testowanie systemu}{14}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Testy logowania}{14}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Testy dodawania zajęć}{14}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Testy filtrowania danych}{15}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Testy edycji i usuwania zajęć}{15}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Testy walidacji danych}{16}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Podsumowanie i wnioski}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Osiągnięte rezultaty}{17}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Wnioski}{17}{section.6.2}%
+\contentsline {section}{\textbf {Bibliografia}}{19}{section.6.2}%
+\contentsline {section}{\textbf {Spis rysunków}}{20}{chapter*.17}%
+\contentsline {section}{\textbf {Spis listingów}}{21}{chapter*.17}%
+\contentsline {section}{\textbf {Oświadczenie studenta o samodzielności pracy}}{22}{chapter*.19}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  15 JUN 2025 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.14)  15 JUN 2025 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -603,6 +603,10 @@ Package: lineno 2025/05/13 line numbers on paragraphs v5.5
 \bframesep=\dimen291
 \bframebox=\box76
 \@LN@amsmath@ams@eqpen=\count363
+) (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
 ) (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count364
@@ -638,27 +642,27 @@ File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 ) (praca.aux
 Package babel Info: 'polish' activates 'polish' shorthands.
 (babel)             Reported  on input line 8.
- (chapters/chapter001.aux) (chapters/chapter002.aux) (chapters/chapter003.aux) (chapters/chapter004.aux) (chapters/chapter005.aux) (chapters/chapter006.aux) (appendix/statement-A.aux))
+ (chapters/chapter001.aux) (chapters/chapter002.aux) (chapters/chapter003.aux) (chapters/chapter004.aux) (chapters/chapter005.aux) (chapters/chapter006.aux) (chapters/chapter007.aux) (chapters/chapter008.aux) (appendix/statement-A.aux))
 \openout1 = `praca.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 200.
-LaTeX Font Info:    ... okay on input line 200.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 209.
+LaTeX Font Info:    ... okay on input line 209.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count371
@@ -721,41 +725,41 @@ Package caption Info: End \AtBeginDocument code.
 (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-polish.trsl
 File: translations-basic-dictionary-polish.trsl (polish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `polish'. on input line 200.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `polish'. on input line 209.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 200.
-Package hyperref Info: Link coloring OFF on input line 200.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 209.
+Package hyperref Info: Link coloring OFF on input line 209.
  (praca.out) (praca.out)
 \@outlinefile=\write3
 \openout3 = `praca.out'.
 
 \c@lstlisting=\count377
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 202.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 211.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 202.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 211.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 202.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 211.
  (C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/ur.jpg, id=112, 134.00063pt x 134.00063pt>
+<figures/ur.jpg, id=137, 134.00063pt x 134.00063pt>
 File: figures/ur.jpg Graphic file (type jpg)
 <use figures/ur.jpg>
-Package pdftex.def Info: figures/ur.jpg  used on input line 202.
+Package pdftex.def Info: figures/ur.jpg  used on input line 211.
 (pdftex.def)             Requested size: 93.79977pt x 93.79977pt.
 
-Overfull \hbox (1.90001pt too wide) in paragraph at lines 202--202
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 211--211
 $[]$  $[]$ 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 202.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 211.
 
 
 [1
@@ -766,7 +770,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.202 \titlepages
+l.211 \titlepages
                   [1
 
 
@@ -780,7 +784,7 @@ l.202 \titlepages
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.216 \clearpage
+l.225 \clearpage
                  [1
 
 ]
@@ -788,10 +792,7 @@ l.216 \clearpage
 
  (chapters/chapter001.tex
 Rozdzia\l  1.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 12.
-(C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-))
+)
 
 [2
 
@@ -802,7 +803,10 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
  (chapters/chapter002.tex
 Rozdzia\l  2.
-)
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 13.
+(C:\Users\misha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+))
 
 [3
 
@@ -829,12 +833,12 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
  (chapters/chapter004.tex
 Rozdzia\l  4.
-<figures/workApl/login_panel.png, id=170, 210.7875pt x 207.77625pt>
+<figures/workApl/login_panel.png, id=203, 210.7875pt x 207.77625pt>
 File: figures/workApl/login_panel.png Graphic file (type png)
 <use figures/workApl/login_panel.png>
 Package pdftex.def Info: figures/workApl/login_panel.png  used on input line 6.
 (pdftex.def)             Requested size: 170.71393pt x 168.27881pt.
-<figures/workApl/mainpanel.png, id=172, 645.91313pt x 548.80031pt>
+<figures/workApl/mainpanel.png, id=205, 645.91313pt x 548.80031pt>
 File: figures/workApl/mainpanel.png Graphic file (type png)
 <use figures/workApl/mainpanel.png>
 Package pdftex.def Info: figures/workApl/mainpanel.png  used on input line 16.
@@ -850,7 +854,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./figures/workApl/login_panel.png>]
-<figures/workApl/add_wyklad_panel.png, id=180, 225.84375pt x 327.47343pt>
+<figures/workApl/add_wyklad_panel.png, id=213, 225.84375pt x 327.47343pt>
 File: figures/workApl/add_wyklad_panel.png Graphic file (type png)
 <use figures/workApl/add_wyklad_panel.png>
 Package pdftex.def Info: figures/workApl/add_wyklad_panel.png  used on input line 33.
@@ -861,7 +865,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [6 <./figures/workApl/mainpanel.png>]
-<figures/workApl/add_lab_panel.png, id=188, 229.60782pt x 328.22626pt>
+<figures/workApl/add_lab_panel.png, id=221, 229.60782pt x 328.22626pt>
 File: figures/workApl/add_lab_panel.png Graphic file (type png)
 <use figures/workApl/add_lab_panel.png>
 Package pdftex.def Info: figures/workApl/add_lab_panel.png  used on input line 43.
@@ -872,7 +876,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [7 <./figures/workApl/add_wyklad_panel.png>]
-<figures/workApl/add_projekt_panel.png, id=195, 228.10219pt x 326.72063pt>
+<figures/workApl/add_projekt_panel.png, id=228, 228.10219pt x 326.72063pt>
 File: figures/workApl/add_projekt_panel.png Graphic file (type png)
 <use figures/workApl/add_projekt_panel.png>
 Package pdftex.def Info: figures/workApl/add_projekt_panel.png  used on input line 53.
@@ -883,7 +887,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [8 <./figures/workApl/add_lab_panel.png>]
-<figures/workApl/edit_panel.png, id=202, 223.58531pt x 327.47343pt>
+<figures/workApl/edit_panel.png, id=235, 223.58531pt x 327.47343pt>
 File: figures/workApl/edit_panel.png Graphic file (type png)
 <use figures/workApl/edit_panel.png>
 Package pdftex.def Info: figures/workApl/edit_panel.png  used on input line 63.
@@ -899,7 +903,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout2 = `chapters/chapter005.aux'.
 
  (chapters/chapter005.tex
-<figures/diagramDB.png, id=215, 724.95844pt x 355.3275pt>
+<figures/diagramDB.png, id=248, 724.95844pt x 355.3275pt>
 File: figures/diagramDB.png Graphic file (type png)
 <use figures/diagramDB.png>
 Package pdftex.def Info: figures/diagramDB.png  used on input line 33.
@@ -907,7 +911,7 @@ Package pdftex.def Info: figures/diagramDB.png  used on input line 33.
 )
 
 Package babel Info: 'polish' activates 'polish' shorthands.
-(babel)             Reported  on input line 225.
+(babel)             Reported  on input line 234.
 [11
 
 
@@ -922,7 +926,7 @@ Package babel Info: 'polish' activates 'polish' shorthands.
 
 
 ]
-<figures/diagram.png, id=228, 1120.185pt x 572.1375pt>
+<figures/diagram.png, id=261, 1120.185pt x 572.1375pt>
 File: figures/diagram.png Graphic file (type png)
 <use figures/diagram.png>
 Package pdftex.def Info: figures/diagram.png  used on input line 85.
@@ -930,32 +934,104 @@ Package pdftex.def Info: figures/diagram.png  used on input line 85.
 )
 
 [13 <./figures/diagram.png (PNG copy)>]
-No file praca.bbl.
-(praca.lof)
-\tf@lof=\write5
-\openout5 = `praca.lof'.
+\openout2 = `chapters/chapter007.aux'.
 
+ (chapters/chapter007.tex
+Rozdzia\l  5.
+<figures/approve/approve_login.png, id=267, 247.67531pt x 112.92188pt>
+File: figures/approve/approve_login.png Graphic file (type png)
+<use figures/approve/approve_login.png>
+Package pdftex.def Info: figures/approve/approve_login.png  used on input line 11.
+(pdftex.def)             Requested size: 170.71393pt x 77.83345pt.
+<figures/Errors/bad_login.png, id=268, 245.41687pt x 109.91063pt>
+File: figures/Errors/bad_login.png Graphic file (type png)
+<use figures/Errors/bad_login.png>
+Package pdftex.def Info: figures/Errors/bad_login.png  used on input line 17.
+(pdftex.def)             Requested size: 170.71393pt x 76.45724pt.
+<figures/approve/add_zajecia_succesfull.png, id=269, 244.66406pt x 106.89937pt>
+File: figures/approve/add_zajecia_succesfull.png Graphic file (type png)
+<use figures/approve/add_zajecia_succesfull.png>
+Package pdftex.def Info: figures/approve/add_zajecia_succesfull.png  used on input line 33.
+(pdftex.def)             Requested size: 213.39568pt x 93.23982pt.
 
 
 [14
 
 
 
-] (praca.lot)
-\tf@lot=\write6
-\openout6 = `praca.lot'.
+
+ <./figures/approve/approve_login.png> <./figures/Errors/bad_login.png> <./figures/approve/add_zajecia_succesfull.png>]
+<figures/Warning/select_zajecia_to_edit.png, id=280, 243.15843pt x 107.65219pt>
+File: figures/Warning/select_zajecia_to_edit.png Graphic file (type png)
+<use figures/Warning/select_zajecia_to_edit.png>
+Package pdftex.def Info: figures/Warning/select_zajecia_to_edit.png  used on input line 59.
+(pdftex.def)             Requested size: 213.39568pt x 94.47467pt.
+<figures/Warning/delete_warning.png, id=281, 301.8778pt x 107.65219pt>
+File: figures/Warning/delete_warning.png Graphic file (type png)
+<use figures/Warning/delete_warning.png>
+Package pdftex.def Info: figures/Warning/delete_warning.png  used on input line 65.
+(pdftex.def)             Requested size: 213.39568pt x 76.09848pt.
+<figures/Warning/select_zajecia.png, id=282, 243.91125pt x 106.14656pt>
+File: figures/Warning/select_zajecia.png Graphic file (type png)
+<use figures/Warning/select_zajecia.png>
+Package pdftex.def Info: figures/Warning/select_zajecia.png  used on input line 71.
+(pdftex.def)             Requested size: 213.39568pt x 92.86829pt.
+
+
+[15 <./figures/Warning/select_zajecia_to_edit.png> <./figures/Warning/delete_warning.png> <./figures/Warning/select_zajecia.png>]
+<figures/Errors/add_panel_error.png, id=293, 316.93407pt x 106.89937pt>
+File: figures/Errors/add_panel_error.png Graphic file (type png)
+<use figures/Errors/add_panel_error.png>
+Package pdftex.def Info: figures/Errors/add_panel_error.png  used on input line 88.
+(pdftex.def)             Requested size: 234.73654pt x 79.17606pt.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 92.
+<figures/Errors/sala_zajeta_error.png, id=294, 278.54062pt x 107.65219pt>
+File: figures/Errors/sala_zajeta_error.png Graphic file (type png)
+<use figures/Errors/sala_zajeta_error.png>
+Package pdftex.def Info: figures/Errors/sala_zajeta_error.png  used on input line 102.
+(pdftex.def)             Requested size: 234.73654pt x 90.72453pt.
+
+Overfull \hbox (5.21304pt too wide) in paragraph at lines 115--116
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+
+[16 <./figures/Errors/add_panel_error.png> <./figures/Errors/sala_zajeta_error.png>]
+\openout2 = `chapters/chapter008.aux'.
+
+ (chapters/chapter008.tex
+Rozdzia\l  6.
+
+
+[17
 
 
 
-[15
+
+])
+
+[18] (praca.bbl)
+
+[19
+
+
+
+] (praca.lof)
+\tf@lof=\write5
+\openout5 = `praca.lof'.
+
+
+
+[20
 
 ] (praca.lol)
-\tf@lol=\write7
-\openout7 = `praca.lol'.
+\tf@lol=\write6
+\openout6 = `praca.lol'.
 
 
 
-[16
+[21
 
 
 
@@ -979,7 +1055,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
 )
 
-[17
+[22
 
 
 
@@ -988,26 +1064,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 Package caption Warning: Unused \captionsetup[sub] on input line 23.
 See the caption package documentation for explanation.
 
-(praca.aux (chapters/chapter001.aux) (chapters/chapter002.aux) (chapters/chapter003.aux) (chapters/chapter004.aux) (chapters/chapter005.aux) (chapters/chapter006.aux) (appendix/statement-A.aux))
+(praca.aux (chapters/chapter001.aux) (chapters/chapter002.aux) (chapters/chapter003.aux) (chapters/chapter004.aux) (chapters/chapter005.aux) (chapters/chapter006.aux) (chapters/chapter007.aux) (chapters/chapter008.aux) (appendix/statement-A.aux))
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
 Package rerunfilecheck Info: File `praca.out' has not changed.
-(rerunfilecheck)             Checksum: 539F50B45E6C87BE139E9B3F3ABF1754;4903.
+(rerunfilecheck)             Checksum: E681DECD826F73A5B06DE0CFDF67C26B;5946.
  ) 
 Here is how much of TeX's memory you used:
- 23189 strings out of 468225
- 444744 string characters out of 5432973
- 997316 words of memory out of 5000000
- 51255 multiletter control sequences out of 15000+600000
- 692254 words of font info for 104 fonts, out of 8000000 for 9000
+ 23612 strings out of 468225
+ 452352 string characters out of 5432973
+ 1012437 words of memory out of 5000000
+ 51621 multiletter control sequences out of 15000+600000
+ 694645 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,14n,94p,594b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/misha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on praca.pdf (19 pages, 339853 bytes).
+Output written on praca.pdf (24 pages, 401558 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 428 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 

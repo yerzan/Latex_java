@@ -1,33 +1,17 @@
-\chapter{Wstęp}
+\chapter{Streszczenie}
 
-\section{Cel projektu}
+\section{Streszczenie w języku polskim}
 
-Celem projektu było zaprojektowanie i zaimplementowanie aplikacji desktopowej wspomagającej zarządzanie zajęciami akademickimi oraz rezerwację sal dydaktycznych w środowisku uczelni wyższej.  
-System ma za zadanie ułatwić pracownikom sekretariatu organizację planów zajęć, eliminując problemy związane z ręcznym układaniem grafiku.
+Celem niniejszego projektu było stworzenie aplikacji wspomagającej proces \textbf{rezerwacji sal} oraz zarządzania \textbf{harmonogramem zajęć} na uczelni. Projekt został zrealizowany w języku \textbf{Java} z wykorzystaniem \textbf{graficznego interfejsu użytkownika} (Swing), połączenia z relacyjną bazą danych \textbf{PostgreSQL} za pomocą \textbf{JDBC} oraz wzorca \textbf{DAO} do komunikacji z bazą.
 
-\section{Zakres funkcjonalny systemu}
+Aplikacja umożliwia wykonywanie operacji \textbf{dodawania}, \textbf{edytowania}, \textbf{filtrowania} i \textbf{usuwania zajęć} dla różnych typów (\textbf{wykład}, \textbf{laboratorium}, \textbf{projekt}). Uwzględnia różnice w obsłudze \textbf{grup} w zależności od typu zajęć oraz zawiera \textbf{walidację danych wejściowych} i odpowiednie \textbf{komunikaty błędów}.
 
-Dzięki zastosowanym funkcjonalnościom możliwe jest m.in.:
-\begin{itemize}
-    \item dodawanie nowych zajęć do bazy danych,
-    \item filtrowanie według różnych kryteriów (typ, sala, grupa),
-    \item edytowanie istniejących rekordów,
-    \item sprawdzanie dostępności sal i konfliktów czasowych.
-\end{itemize}
+Projekt pozwolił na rozwinięcie umiejętności z zakresu \textbf{programowania obiektowego}, pracy z \textbf{bazami danych} oraz tworzenia aplikacji desktopowych z wykorzystaniem bibliotek \textbf{GUI}.
 
-Aplikacja automatycznie weryfikuje poprawność danych wejściowych oraz wyświetla komunikaty błędów w przypadku wykrycia kolizji.
+\section{Abstract in English}
 
-\section{Zastosowane technologie}
+The aim of this project was to create an application that supports the process of \textbf{room reservation} and \textbf{class schedule management} at a university. The project was implemented in \textbf{Java} using a \textbf{graphical user interface} (Swing), connection to a relational database \textbf{PostgreSQL} via \textbf{JDBC}, and the \textbf{DAO design pattern} for data access.
 
-Projekt został zrealizowany w języku \textbf{Java}, przy użyciu biblioteki \textbf{Swing} do stworzenia graficznego interfejsu użytkownika.  
-Do komunikacji z bazą danych zastosowano technologię \textbf{JDBC}, natomiast dane przechowywane są w relacyjnej bazie danych \textbf{PostgreSQL}.
+The application allows \textbf{adding}, \textbf{editing}, \textbf{filtering}, and \textbf{deleting classes} of various types (\textbf{lecture}, \textbf{laboratory}, \textbf{project}). It handles \textbf{group selection logic} depending on the type of class and includes \textbf{input validation} with appropriate \textbf{error messages}.
 
-\section{Struktura dokumentacji}
-
-Dokumentacja została przygotowana z użyciem systemu składu tekstu \LaTeX{} i zawiera:
-\begin{itemize}
-    \item opis struktury aplikacji,
-    \item diagramy klas i bazy danych,
-    \item opis interfejsu użytkownika,
-    \item opis komponentów i funkcjonalności systemu.
-\end{itemize}
+The project enabled the development of skills in \textbf{object-oriented programming}, working with \textbf{databases}, and creating desktop applications using \textbf{GUI libraries}.

@@ -3,11 +3,21 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Panel logowania do systemu}}{5}{figure.caption.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Główny panel sekretariatu z listą zajęć i filtrowaniem}}{6}{figure.caption.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Formularz dodawania zajęć typu Wykład}}{7}{figure.caption.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Formularz dodawania zajęć typu Laboratorium}}{8}{figure.caption.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Formularz dodawania zajęć typu Projekt}}{9}{figure.caption.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Formularz edycji istniejących zajęć}}{10}{figure.caption.6}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagram relacyjny bazy danych systemu}}{11}{figure.caption.7}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Zależności pomiędzy komponentami GUI, modelem danych i warstwą DAO}}{13}{figure.caption.8}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Panel logowania do systemu}}{5}{figure.caption.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Główny panel sekretariatu z listą zajęć i filtrowaniem}}{6}{figure.caption.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Formularz dodawania zajęć typu Wykład}}{7}{figure.caption.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Formularz dodawania zajęć typu Laboratorium}}{8}{figure.caption.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Formularz dodawania zajęć typu Projekt}}{9}{figure.caption.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Formularz edycji istniejących zajęć}}{10}{figure.caption.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Diagram relacyjny bazy danych systemu}}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Zależności pomiędzy komponentami GUI, modelem danych i warstwą DAO}}{13}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9}{\ignorespaces Logowanie zakończone sukcesem}}{14}{figure.caption.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Blad logowania – nieprawidlowe dane}}{14}{figure.caption.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Potwierdzenie dodania zajęć}}{14}{figure.caption.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Brak zaznaczonego rekordu do edycji}}{15}{figure.caption.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Potwierdzenie usuniecia zajec}}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Brak zaznaczonego rekordu do usuniecia}}{15}{figure.caption.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Puste pola formularza – komunikat bledu}}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Blad – sala juz zajeta w tym terminie}}{16}{figure.caption.16}%
+\addvspace {10\p@ }
