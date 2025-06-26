@@ -1,8 +1,13 @@
 \begin{thebibliography}{1}
 
-\bibitem{lgooddatepicker}
-LGoodDatePicker Team.
-\newblock Lgooddatepicker.
-\newblock \url{https://github.com/LGoodDatePicker}, 2024.
+\bibitem{dao}
+Michael Blaha and James Rumbaugh.
+\newblock {\em Object-Oriented Modeling and Design with UML}.
+\newblock Pearson, 2005.
+
+\bibitem{horstmann}
+Cay~S. Horstmann.
+\newblock {\em Core Java Volume I -- Fundamentals}.
+\newblock Pearson Education, 12th edition, 2022.
 
 \end{thebibliography}
