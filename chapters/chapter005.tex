@@ -24,9 +24,11 @@ Dane przechowywane są w relacyjnej bazie danych \textbf{PostgreSQL}, w ramach s
     \end{itemize}
 \end{itemize}
 
-Tabele są powiązane logicznie przez kolumnę \texttt{zajecia\_id}, a dane zabezpieczone są poprzez ograniczenia integralności oraz indeksy. Struktura została zaprojektowana tak, aby umożliwiać wygodne wykonywanie operacji CRUD i filtrowania.
+Tabele są powiązane logicznie przez kolumnę \texttt{zajecia\_id}, a dane zabezpieczone są poprzez ograniczenia integralności oraz indeksy. Struktura została zaprojektowana tak, aby umożliwiać wygodne wykonywanie operacji CRUD i filtrowania danych według sali, grupy i typu zajęć.
 
 \section{Diagram Baza Danych}
+
+Na poniższym diagramie (Rys. \ref{fig:diagram-db}) przedstawiono strukturę relacyjnej bazy danych systemu. Schemat zawiera powiązania między tabelą \texttt{zajecia}, która stanowi centralny element, a tabelami powiązanymi \texttt{projekty} oraz \texttt{laboratoria}, które przechowują szczegóły zależne od typu zajęć. Tabela \texttt{uzytkownicy} umożliwia kontrolę dostępu do systemu.
 
 \begin{figure}[H]
     \centering

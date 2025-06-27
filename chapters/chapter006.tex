@@ -75,11 +75,20 @@ System zawiera zabezpieczenia:
     \item \textbf{Uwagi:} Obsługuje filtrowanie i pełną obsługę CRUD; główny ekran zarządzania.
 \end{itemize}
 
+\clearpage
 \section{Diagram komponentów GUI i zależności}
-\vspace{1em}
-\noindent\textbf{Diagram komponentów GUI i zależności}
 
-\vspace{0.5em}
+Diagram przedstawiony na Rys. \ref{fig:diagram-gui} ilustruje architekturę aplikacji oraz przepływ zależności pomiędzy jej głównymi komponentami. Aplikacja została zaprojektowana zgodnie z podejściem warstwowym (ang. layered architecture), które oddziela logikę GUI, model danych, logikę dostępu do danych (DAO) oraz warstwę połączenia z bazą danych.
+
+\begin{itemize}
+    \item Komponenty pakietu \texttt{gui} odpowiadają za graficzny interfejs użytkownika: \texttt{SekretariatPanel}, \texttt{DodajZajeciaPanel}, \texttt{EdytujZajeciaPanel}, \texttt{Login}.
+    \item Komponenty modelu (\texttt{Zajecia}, \texttt{Wykład}, \texttt{Projekt}, \texttt{Laboratorium}) reprezentują dane przekazywane między warstwami.
+    \item Pakiet \texttt{dao} zawiera klasy \texttt{ZajeciaDAO} oraz \texttt{LoginDAO}, odpowiedzialne za dostęp do bazy danych poprzez odpowiednie metody (np. \texttt{getAllZajecia()}, \texttt{addZajecia()}, \texttt{login()}).
+    \item Warstwa \texttt{database} odpowiada za ustanowienie połączenia z bazą danych — klasę \texttt{DatabaseConnection}.
+\end{itemize}
+
+Zależności między komponentami są jednokierunkowe, co sprzyja testowalności i rozszerzalności systemu. GUI komunikuje się wyłącznie z DAO, które obsługuje logikę zapisu i odczytu danych z relacyjnej bazy danych PostgreSQL.
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.95\textwidth]{figures/diagram.png}
